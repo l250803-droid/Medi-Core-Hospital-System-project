@@ -60,3 +60,11 @@ The project uses:
 
 \## GitHub Repository Link
 
+https://github.com/l250803-droid/Medi-Core-Hospital-System-project
+
+
+
+
+
+
+
